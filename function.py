@@ -7,14 +7,14 @@
 
 
 
-# def main():
-#     name = input('Enter your name: ')
-#     hello(name)
+def main():
+    name = input('Enter your name: ')
+    hello(name)
 
-# def hello(s):
-#     print('hello', s)
+def hello(s):
+    print('hello', s)
 
-# main()
+main()
 
 
 def main():
